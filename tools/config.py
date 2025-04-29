@@ -5,7 +5,7 @@
 ------------------------DON'T FORGET TO PROTECT THIS FILE------------------------
 #################################################################################
 
-TEMPLATE:
+TEMPLATE :
 
 passcode = int (int)
 activity = "any text" (str)
