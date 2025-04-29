@@ -28,23 +28,4 @@ ranks_tt = [["rank name", points required], ["rank name2", points required2]] = 
 token = "bot token" (str)
 
 HEX colors need to be WITHOUT the #, just the 6 digits
-
-EXEMPLE:
-
-activity = "A cool game!"
-sep_len = 3
-sep_char = ","
-color = int("FFFFFF", 16)
-admin_color = int("FFFFFF", 16)
-system_color = int("FFFFFF", 16)
-fail_color = int("FFFFFF", 16)
-pts_ico = ":star:"
-tt_first = 12345678901
-of_first = 12345678902
-admins = 12345678903
-devs = 12345678904
-guild_id = 12345678905
-project_name = "bestbot"
-bot_name = "BestBot"
-ranks = [["beginner", 200], ["advanced", 1000], ["expert", 2500], ["master", 10000]]
 '''
