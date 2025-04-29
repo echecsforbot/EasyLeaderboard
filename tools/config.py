@@ -47,5 +47,4 @@ guild_id = 12345678905
 project_name = "bestbot"
 bot_name = "BestBot"
 ranks = [["beginner", 200], ["advanced", 1000], ["expert", 2500], ["master", 10000]]
-token = "AbcDeFGhIJKLmNOpqrSTUvWXyZ"
 '''
