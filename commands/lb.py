@@ -127,7 +127,7 @@ class LB(commands.Cog):
 
                     points = 0
 
-                    with open(f"../{cfg.project_name}/users_log/{interaction.user.id}.txt", "r") as UFL:
+                    with open(f"../{cfg.project_name}/users_log/{file_name}.txt", "r") as UFL:
                         for line in UFL.readlines():
                             log = line.split(",")
 
